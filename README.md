@@ -9,8 +9,8 @@ This is a backend Express.js application that provides authentication, dashboard
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone git@github.com:aysswary/expense-tracker-BE.git
+   cd expense-tracker-BE
    ```
 
 2. **Install dependencies**
